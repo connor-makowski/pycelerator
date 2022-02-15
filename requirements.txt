@@ -34,7 +34,7 @@ notebook==6.4.6
 numba==0.54.1
 numpy==1.20.3
 packaging==21.3
--e git+ssh://git@github.com/connor-makowski/pamda.git@edba4c2fef1e92297f255cb92dc71e3fb7a93e0d#egg=pamda
+pamda==0.0.13
 pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
